@@ -1,0 +1,29 @@
+{
+  "name": "neko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "babel-core": "^7.0.0-bridge.0",
+    "discord.js": "^12.5.3",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.3.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "got": "^11.8.2",
+    "loader": "^2.1.1",
+    "nodemon": "^2.0.7",
+    "opusscript": "^0.0.7",
+    "simple-youtube-api": "^5.2.1",
+    "superagent": "^6.1.0",
+    "vim": "^0.1.0",
+    "youtube-api": "^3.0.1",
+    "youtube-api-search": "0.0.5",
+    "ytdl-core": "^4.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mcitomi",
+  "license": "ISC"
+}
